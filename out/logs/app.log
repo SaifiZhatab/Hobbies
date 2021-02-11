@@ -1,0 +1,59 @@
+[2021-02-02 13:10:57] [INFO   ] DataBase connect successfully  
+[2021-02-02 13:10:57] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:12:35] [INFO   ] Initializing Spring DispatcherServlet 'dispatcherServlet' 
+[2021-02-02 13:17:29] [INFO   ] DataBase connect successfully  
+[2021-02-02 13:17:29] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:17:29] [INFO   ] Pausing ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:17:29] [INFO   ] Stopping service [Tomcat] 
+[2021-02-02 13:17:29] [INFO   ] Stopping ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:17:29] [INFO   ] Destroying ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:17:39] [INFO   ] DataBase connect successfully  
+[2021-02-02 13:17:40] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:17:40] [INFO   ] Pausing ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:17:40] [INFO   ] Stopping service [Tomcat] 
+[2021-02-02 13:17:40] [INFO   ] Stopping ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:17:40] [INFO   ] Destroying ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:22:08] [INFO   ] DataBase connect successfully  
+[2021-02-02 13:22:09] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:22:09] [INFO   ] Pausing ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:22:09] [INFO   ] Stopping service [Tomcat] 
+[2021-02-02 13:22:09] [INFO   ] Stopping ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:22:09] [INFO   ] Destroying ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:43] [INFO   ] DataBase connect successfully  
+[2021-02-02 13:59:43] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:43] [INFO   ] Pausing ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:43] [INFO   ] Stopping service [Tomcat] 
+[2021-02-02 13:59:43] [INFO   ] Stopping ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:43] [INFO   ] Destroying ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:52] [INFO   ] DataBase connect successfully  
+[2021-02-02 13:59:52] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:52] [INFO   ] Pausing ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:52] [INFO   ] Stopping service [Tomcat] 
+[2021-02-02 13:59:52] [INFO   ] Stopping ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 13:59:52] [INFO   ] Destroying ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:26] [INFO   ] DataBase connect successfully  
+[2021-02-02 14:00:26] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:26] [INFO   ] Pausing ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:26] [INFO   ] Stopping service [Tomcat] 
+[2021-02-02 14:00:26] [INFO   ] Stopping ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:26] [INFO   ] Destroying ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:38] [INFO   ] DataBase connect successfully  
+[2021-02-02 14:00:39] [INFO   ] Starting ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:39] [INFO   ] Pausing ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:39] [INFO   ] Stopping service [Tomcat] 
+[2021-02-02 14:00:39] [INFO   ] Stopping ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:00:39] [INFO   ] Destroying ProtocolHandler ["http-nio-8080"] 
+[2021-02-02 14:01:03] [INFO   ] DataBase connect successfully  
+[2021-02-02 14:01:04] [INFO   ] Starting ProtocolHandler ["http-nio-8081"] 
+[2021-02-02 14:01:23] [INFO   ] Initializing Spring DispatcherServlet 'dispatcherServlet' 
+[2021-02-02 23:49:34] [INFO   ] DataBase connect successfully  
+[2021-02-02 23:49:35] [INFO   ] Starting ProtocolHandler ["http-nio-8081"] 
+[2021-02-02 23:49:53] [INFO   ] Initializing Spring DispatcherServlet 'dispatcherServlet' 
+[2021-02-02 23:51:00] [SEVERE ] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.http.converter.HttpMessageConversionException: Type definition error: [simple type, class com.zs.hobbies.dto.Badminton]; nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct instance of `com.zs.hobbies.dto.Badminton` (no Creators, like default constructor, exist): cannot deserialize from Object value (no delegate- or property-based Creator)
+ at [Source: (PushbackInputStream); line: 2, column: 3]] with root cause 
+[2021-02-03 11:12:58] [INFO   ] DataBase connect successfully  
+[2021-02-03 11:12:59] [INFO   ] Starting ProtocolHandler ["http-nio-8081"] 
+[2021-02-03 13:01:09] [INFO   ] DataBase connect successfully  
+[2021-02-03 13:01:10] [INFO   ] Starting ProtocolHandler ["http-nio-8081"] 
+[2021-02-03 13:23:01] [INFO   ] Initializing Spring DispatcherServlet 'dispatcherServlet' 
+[2021-02-03 16:43:36] [INFO   ] Stopping service [Tomcat] 

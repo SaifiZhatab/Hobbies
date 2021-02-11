@@ -1,0 +1,23 @@
+
+Y
+java:S1155w">Use isEmpty() to check whether the collection is empty or not.(šÁ²åüÿÿÿÿ
+h
+java:S11928"RDefine a constant instead of duplicating this literal " error message : " 8 times.(”¾ƒ„
+E
+java:S3740!"/Provide the parametrized type for this generic.(ƒàÍè
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(ùœ£ùÿÿÿÿ
+‚
+java:S11928"lDefine a constant instead of duplicating this literal "Sorry you give wrong input :: error code : " 4 times.(”¾ƒ„
+‡
+java:S1192K"lDefine a constant instead of duplicating this literal "Sorry  some internal error :: error code : " 3 times.(©‡„öıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+J
+java:S3740("/Provide the parametrized type for this generic.(Šä©ÿÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(Œˆ¯Ê
+=
+java:S1068!"'Remove this unused "lru" private field.(ƒàÍè
+R
+java:S1117("7Rename "lru" which hides the field declared at line 33.(Šä©ÿÿÿÿÿ
+J
+java:S3740("/Provide the parametrized type for this generic.(Šä©ÿÿÿÿÿ
